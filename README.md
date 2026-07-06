@@ -2,7 +2,7 @@ This code runs an application for the calculation of the CARE-FI (Composite Admi
 
 # Applicativo Indicatore di Fragilità
 
-Versione aggiornata al 04/06/26
+Per eseguire l'applicazione, [scarica la cartella compressa Output NewToolFrailtyAssessment.zip](https://github.com/ideas-stat/CARE-FI/raw/refs/heads/main/Output%20NewToolFrailtyAssessment.zip) e segui le iscruzioni contenute le file "guida generale".
 
 ## Introduzione all’applicativo
 
