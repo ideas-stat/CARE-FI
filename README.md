@@ -6,7 +6,7 @@ Per eseguire l'applicazione, [scarica la cartella compressa Output NewToolFrailt
 
 ## Introduzione all’applicativo
 
-La presente applicazione consente il calcolo dell’indicatore di fragilità CARE-FI (Composite Administrative data-based Ranking Estimator Frailty Index), riferito alla popolazione residente di età pari o superiore a 65 anni nel territorio di un’Azienda Sanitaria.
+La presente applicazione consente il calcolo dell’indicatore di fragilità CARE-FI (Composite Administrative data-based Ranking Estimator Frailty Index), riferito alla popolazione residente di età pari o superiore a 65 anni nel territorio di un’ Azienda Sanitaria.
 
 Il CARE-FI è costruito esclusivamente a partire dalle informazioni contenute nei database amministrativi delle ASL relativi a due annualità consecutive e si basa su otto dimensioni ritenute rilevanti ai fini della valutazione della fragilità: età, presenza di disabilità, numero di ospedalizzazioni, disturbi psichici, malattie del sistema nervoso, insufficienza cardiaca, insufficienza renale e cancro attivo.
 
