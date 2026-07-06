@@ -1,8 +1,10 @@
-This code runs an application for the calculation of the CARE-FI (Composite Administrative Data-based Ranking Estimator Frailty Index) frailty indicator for the resident population aged 65 and older within the territory of a health authority. **It is designed for Italian healthcare data and developed entirely in Italian.**
+This code runs an application for the calculation of the CARE-FI (Composite Administrative Data-based Ranking Estimator Frailty Index) frailty indicator for the resident population aged 65 and older within the territory of a health authority. **It is designed for Italian healthcare data and developed entirely in Italian.** Currently, the code works only on Windows operating systems, compatibility with other operating systems is still under development.
 
 # Applicativo Indicatore di Fragilità
 
-Per eseguire l'applicazione, [scarica la cartella compressa Output NewToolFrailtyAssessment.zip](https://github.com/ideas-stat/CARE-FI/raw/refs/heads/main/Output%20NewToolFrailtyAssessment.zip) e segui le istruzioni contenute le file "guida generale". Attualmente, il codice funziona solo su sistemi operativi Windows, la compatibilità su altri sistemi operativi è ancora in sviluppo.
+## Istruzioni
+
+Per eseguire l'applicazione, [scarica la cartella compressa Output NewToolFrailtyAssessment.zip](https://github.com/ideas-stat/CARE-FI/raw/refs/heads/main/Output%20NewToolFrailtyAssessment.zip) e segui le istruzioni contenute le file "guida generale". Per testare l'applicazione, è possibile usare come input file sintetico example.csv.
 
 ## Introduzione all’applicativo
 
