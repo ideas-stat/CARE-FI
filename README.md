@@ -4,7 +4,7 @@ This code runs an application for the calculation of the CARE-FI (Composite Admi
 
 ## Istruzioni
 
-Per eseguire l'applicazione, [scarica la cartella compressa Output NewToolFrailtyAssessment.zip](https://github.com/ideas-stat/CARE-FI/raw/refs/heads/main/Output%20NewToolFrailtyAssessment.zip) e segui le istruzioni contenute le file "guida generale". Per testare l'applicazione, è possibile usare come input file sintetico example.csv.
+Per eseguire l'applicazione, [scarica la cartella compressa Output NewToolFrailtyAssessment.zip](https://github.com/ideas-stat/CARE-FI/raw/refs/heads/main/Output%20NewToolFrailtyAssessment.zip) e segui le istruzioni contenute le file "guida generale". Per testare l'applicazione, è possibile usare come input file sintetico `example.csv`.
 
 ## Introduzione all’applicativo
 
