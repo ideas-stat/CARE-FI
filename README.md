@@ -1,6 +1,6 @@
 This code runs an application for the calculation of the CARE-FI (Composite Administrative Data-based Ranking Estimator Frailty Index) frailty indicator for the resident population aged 65 and older within the territory of a health authority. **It is designed for Italian healthcare data and developed entirely in Italian.** Currently, the code works only on Windows operating systems, compatibility with other operating systems is still under development.
 
-# Applicativo Indicatore di Fragilità
+# Applicativo Indicatore di Fragilità CARE-FI
 
 ## Istruzioni
 
